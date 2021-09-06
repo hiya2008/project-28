@@ -1,2 +1,1 @@
-# project-28
-by hiya rawal
+# Project Template 28
